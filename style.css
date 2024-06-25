@@ -301,5 +301,10 @@ section{
     section{
         padding: 50px 7%;
     }
+    .box{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
 }
 
